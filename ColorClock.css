@@ -1,0 +1,26 @@
+/*Hour goes up by 12*/
+
+#display {
+    text-align: center;
+    font-family: 'Righteous', cursive;
+    color: white;
+    font-size: 100px;
+}
+
+#label1 {
+    color: white;
+    text-align: center;
+}
+
+#label2 {
+    color: white;
+    font-size: 22px;
+    text-align: center;
+}
+
+#display2 {
+    color: white;
+    font-size: 70px;
+    font-family: 'Righteous', cursive;
+    text-align: center;
+}
